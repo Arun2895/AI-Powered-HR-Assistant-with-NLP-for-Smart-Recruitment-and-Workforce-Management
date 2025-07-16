@@ -20,17 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
----
-
-✅ Ready to Push to GitHub
-
-1. Create a GitHub repo.
-2. Initialize Git in your folder:
-
-```bash
-git init
-git remote add origin https://github.com/Arun2895/ats-resume-screener.git
-git add .
-git commit -m "Initial commit"
-git push -u origin main
